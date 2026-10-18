@@ -22,7 +22,6 @@
  */
 
 `default_nettype none
-
 module tt_um_space_run (
     input  wire [7:0] ui_in,
     output wire [7:0] uo_out,
